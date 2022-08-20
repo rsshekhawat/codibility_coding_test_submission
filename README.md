@@ -1,1 +1,2 @@
-# codibility_coding_test_submission
+# Test Execution
+## Commamd: mvn test -Dtest="runner"
